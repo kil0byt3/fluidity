@@ -105,10 +105,9 @@ export const searchSettings: Search = {
   engine: searchEngines[0].value,
   fastForward: {
     deepl: "https://deepl.com/",
-    maps: "https://google.de/maps/",
+    maps: "https://google.ca/maps/",
     reddit: "https://reddit.com/",
-    github: "https://github.com/",
-    gitlab: "https://gitlab.com/",
+    git: "https://github.com/",
     youtube: "https://youtube.com/",
   },
 }
